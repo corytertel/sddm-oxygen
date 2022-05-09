@@ -1,0 +1,5 @@
+* README
+This theme was originally created by MarianArlt here:
+https://github.com/MarianArlt/sddm-sugar-light
+
+It has been modified since then by me.
